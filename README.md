@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Parallel 2D heat diffusion with MPI
 Explicit finite-difference solver for the 2D heat equation on the unit square
 (alpha = 1, Dirichlet boundaries), using the scheme of Task 5.2 of the
@@ -48,3 +49,6 @@ Field file (`--out`)
 The full (N+1) x (N+1) grid, boundary included, as raw little-endian doubles in
 row-major order: row j is the line y = y_j, and i varies fastest. No header.
 Node (i, j) is value number `j*(N+1) + i`.
+=======
+# parallel-2d-heat-diffusion-mpi
+>>>>>>> origin/main
