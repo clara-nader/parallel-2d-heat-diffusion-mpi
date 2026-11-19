@@ -1,0 +1,23 @@
+# Compiled executables
+/heat
+/hello
+/pingpong
+
+# Generated data
+*.csv
+*.bin
+
+# Build files
+*.o
+build/1~# Compiled executables
+/heat
+/hello
+/pingpong
+
+# Generated data
+*.csv
+*.bin
+
+# Build files
+*.o
+build/
